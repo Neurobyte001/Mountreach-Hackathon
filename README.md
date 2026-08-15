@@ -1,20 +1,39 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+
+# 🚀 CareerForge AI
+### *AI-Powered Career & Resume Companion for Next-Gen Engineers*
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active_Development-brightgreen?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Focus-Hackathon_MVP-blueviolet?style=for-the-badge" alt="Hackathon" />
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License" />
+  <img src="https://img.shields.io/badge/PRs-Welcome-orange?style=for-the-badge" alt="PRs" />
+</p>
+
+<p align="center">
+  <a href="#-overview">Overview</a> •
+  <a href="#-the-career-loop">The Career Loop</a> •
+  <a href="#-core-modules">Core Modules</a> •
+  <a href="#-tech-stack">Tech Stack</a> •
+  <a href="#-architecture">Architecture</a> •
+  <a href="#-getting-started">Getting Started</a> •
+  <a href="#-contributing">Contributing</a>
+</p>
+
+---
+
 </div>
 
-# Run and deploy your AI Studio app
+## 📌 Overview
 
-This contains everything you need to run your app locally.
+**CareerForge AI** is an open-source, full-lifecycle career operating system engineered to bridge the divide between student skill sets and industry hiring standards. 
 
-View your app in AI Studio: https://ai.studio/apps/02927b00-6a99-413e-9d64-0c11d0d9435b
+Rather than functioning as a standalone resume generator, **CareerForge AI** unites dynamic ATS resume analysis, target job description gap detection, automated career roadmapping, real-time AI mock interviews, and developer networking into a unified closed loop.
 
-## Run Locally
+> **Tagline:** *Build your career. Not just your resume.*
 
-**Prerequisites:**  Node.js
+---
 
+## 🔄 The Career Intelligence Loop
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+CareerForge AI runs on a continuous feedback architecture that personalizes every step of a developer's trajectory:
