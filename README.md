@@ -47,12 +47,13 @@ Rather than functioning as a standalone resume generator, **CareerForge AI** uni
 
 <div align="center">
 
-| Area | Technologies / Tools |
+| Layer | Technology |
 | :--- | :--- |
-| **Frontend** | React 18+ (TypeScript), Tailwind CSS, Vite |
-| **Backend** | Python, FastAPI |
-| **AI / LLM Engine** | Google Gemini 1.5 Pro / Flash, LangChain |
-| **Deployment** | Vercel (Frontend) |
+| **Frontend** | React 18+, TypeScript, Tailwind CSS, Vite |
+| **Runtime & Package Manager** | Bun / Node.js |
+| **Backend / API Server** | TypeScript Server (`server.ts`) |
+| **AI Integration** | Google Gemini API (Google AI Studio) |
+| **State Management** | React Context (`CareerContext.tsx`) + Local Storage |
 
 </div>
 
