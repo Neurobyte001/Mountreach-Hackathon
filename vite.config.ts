@@ -27,6 +27,7 @@ function geminiApiDevPlugin(): Plugin {
           body += chunk;
         });
 
+        
         req.on('end', async () => {
           try {
             const data = body ? JSON.parse(body) : {};
