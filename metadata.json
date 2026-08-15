@@ -1,0 +1,6 @@
+{
+  "name": "CareerForge AI",
+  "description": "Full-lifecycle AI Career & Resume Intelligence Companion with ATS Scanner, JD Matcher, Roadmaps, AI Bullet Enhancers, Real-time Mock Interviews, and Collab Hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
