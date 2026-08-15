@@ -64,12 +64,10 @@ Rather than functioning as a standalone resume generator, **CareerForge AI** uni
 
 | Area | Technologies / Tools |
 | :--- | :--- |
-| **Frontend** | React 18+ (TypeScript), Tailwind CSS, Lucide Icons, Vite |
-| **Backend** | Python, FastAPI, Uvicorn, Pydantic |
+| **Frontend** | React 18+ (TypeScript), Tailwind CSS, Vite |
+| **Backend** | Python, FastAPI |
 | **AI / LLM Engine** | Google Gemini 1.5 Pro / Flash, LangChain |
-| **Vector DB / RAG** | ChromaDB / FAISS *(for grounded interview & career QA)* |
-| **Database & Auth** | PostgreSQL, SQLAlchemy, JWT Authentication, OAuth |
-| **Deployment** | Vercel (Frontend), Render / Railway (Backend API) |
+| **Deployment** | Vercel (Frontend) |
 
 </div>
 
