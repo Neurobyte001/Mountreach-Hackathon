@@ -32,6 +32,47 @@ Rather than functioning as a standalone resume generator, **CareerForge AI** uni
 
 > **Tagline:** *Build your career. Not just your resume.*
 
+## 🎯 Core Modules
+
+### 📄 1. ATS Resume Builder & Analyzer
+* **Multi-Format Templates:** Choose between *ATS Friendly*, *Modern Tech*, and *Minimal Executive* layouts.
+* **AI Bullet Enhancer:** Instantly elevates standard descriptions into XYZ-formula impact statements (e.g., *Accomplished [X] measured by [Y], by doing [Z]*).
+* **ATS Diagnostic Breakdown:** Scores resumes on a 0–100 scale across *Skill Relevance*, *Experience Depth*, *Project Quality*, and *Keyword Density*.
+
+### 💼 2. Job Description Matcher & Skill Gap Engine
+* **Keyword & Requirement Extraction:** Parses target job postings to isolate strictly required vs. preferred competencies.
+* **Gap Analysis Table:** Directly maps your strengths against missing technologies with visual indicators.
+* **Remediation Action:** Automatically transfers identified skill gaps directly into your learning roadmap with one click.
+
+### 🗺️ 3. Dynamic Career Roadmaps
+* **Adaptive Learning Tracks:** Pre-configured paths for *AI/ML Engineer*, *Full-Stack Developer*, *Backend Systems*, and *Data Engineering*.
+* **Actionable Milestones:** Every phase includes why-to-learn rationale, curated free tutorials, practice project ideas, and progress checklists.
+
+### 🎤 4. Interactive AI Mock Interviewer
+* **Domain & Level Customization:** Choose between Technical, HR, or Mixed rounds tailored for Junior to Senior levels.
+* **Turn-by-Turn Feedback:** Immediate evaluations scoring *Correctness*, *Clarity*, and *Technical Depth*, paired with comprehensive model answers.
+
+### 👥 5. Developer Collaboration & Community
+* **Zero-Gate Entry:** Core tools (resume creation, roadmap viewing, mock practice) remain usable without authentication; saving progress and community posting activate upon login.
+* **Project Matchmaking:** Showcase work, find open-source collaborators, discuss technical roadblocks, and exchange interview experiences.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+| Area | Technologies / Tools |
+| :--- | :--- |
+| **Frontend** | React 18+ (TypeScript), Tailwind CSS, Lucide Icons, Vite |
+| **Backend** | Python, FastAPI, Uvicorn, Pydantic |
+| **AI / LLM Engine** | Google Gemini 1.5 Pro / Flash, LangChain |
+| **Vector DB / RAG** | ChromaDB / FAISS *(for grounded interview & career QA)* |
+| **Database & Auth** | PostgreSQL, SQLAlchemy, JWT Authentication, OAuth |
+| **Deployment** | Vercel (Frontend), Render / Railway (Backend API) |
+
+</div>
+
 ---
 
 ## 🔄 The Career Intelligence Loop
