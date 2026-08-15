@@ -76,3 +76,14 @@ Rather than functioning as a standalone resume generator, **CareerForge AI** uni
 ## 🔄 The Career Intelligence Loop
 
 CareerForge AI runs on a continuous feedback architecture that personalizes every step of a developer's trajectory:
+
+
+
+## 🙌 Acknowledgements & Credits
+
+| Platform / Tool | Role in Project | Link |
+| :--- | :--- | :--- |
+| <img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=flat-square&logo=google&logoColor=white" /> | **AI Core & Evaluation Engine** (Resume analysis, ATS scoring & mock interview generation) | [Visit Platform](https://aistudio.google.com/) |
+| <img src="https://img.shields.io/badge/Google%20Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white" /> | **LLM Reasoning & Extraction** (Skill gap detection & prompt pipelines) | [Documentation](https://deepmind.google/technologies/gemini/) |
+| <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" /> | **Product Ideation & PRD Architecture** (Conceptual design & blueprint structuring) | [Visit OpenAI](https://chatgpt.com/) |
+| <img src="https://img.shields.io/badge/Mountreach%20Hackathon-FF5722?style=flat-square&logo=github&logoColor=white" /> | **Hackathon Platform & Challenge Host** | [Repository](https://github.com/Neurobyte001/Mountreach-Hackathon) |
