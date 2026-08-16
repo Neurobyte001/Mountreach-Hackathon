@@ -61,10 +61,11 @@ Rather than functioning as a standalone resume generator, **CareerForge AI** uni
 
 
 
-
 ## 🙌 Acknowledgements & Credits
 
-* ![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white) — *AI evaluation and real-time analysis engine*
-* ![Gemini](https://img.shields.io/badge/Gemini_API-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white) — *Multi-turn mock interview simulation and roadmap generation*
-* ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white) — *PRD blueprint drafting and prompt optimization*
-* ![Mountreach](https://img.shields.io/badge/Mountreach_Hackathon-24292e?style=for-the-badge&logo=github&logoColor=white) — *Project challenge host and platform*
+| Platform / Tool | Role in Project | Link |
+| :--- | :--- | :--- |
+| <img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=flat-square&logo=google&logoColor=white" /> | **AI Core & Evaluation Engine** (Resume analysis, ATS scoring & mock interview generation) | [Visit Platform](https://aistudio.google.com/) |
+| <img src="https://img.shields.io/badge/Google%20Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white" /> | **LLM Reasoning & Extraction** (Skill gap detection & prompt pipelines) | [Documentation](https://deepmind.google/technologies/gemini/) |
+| <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" /> | **Product Ideation & PRD Architecture** (Conceptual design & blueprint structuring) | [Visit OpenAI](https://chatgpt.com/) |
+| <img src="https://img.shields.io/badge/Mountreach%20Hackathon-FF5722?style=flat-square&logo=github&logoColor=white" /> | **Hackathon Platform & Challenge Host** | [Repository](https://github.com/Neurobyte001/Mountreach-Hackathon) |
