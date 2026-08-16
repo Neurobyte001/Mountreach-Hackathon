@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 CareerForge AI
+#  CareerForge AI
 ### *AI-Powered Career & Resume Companion for Next-Gen Engineers*
 
 <p align="center">
